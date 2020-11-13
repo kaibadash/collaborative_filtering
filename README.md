@@ -22,3 +22,7 @@ Recommendations if you like the anime Spriggan:
 9: Ghost in the Shell 2: Innocence (0.7888958427692054)
 10: Youjuu Toshi (0.7932018198193362)
 ```
+
+# cf.
+
+https://www.codexa.net/collaborative-filtering-k-nearest-neighbor/
