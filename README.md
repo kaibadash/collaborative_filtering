@@ -1,6 +1,7 @@
 # How to use.
 
 1. [Get sample data](https://www.kaggle.com/CooperUnion/anime-recommendations-database)
+1. Install python and libraries... :pray:
 1. `python learning.py`
 1. `python test.py`
 
