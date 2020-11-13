@@ -15,7 +15,6 @@ class Recommendation:
     def recommend(self, string):
         model_knn = self.load()
         title = self.search_title(string)
-        print(title)
         anime_pivot = self.generate_learning_data()
         distance, index = model_knn.kneighbors(anime_pivot.iloc[anime_pivot.index == title].values.reshape(1, -1),
                                                n_neighbors=11)
